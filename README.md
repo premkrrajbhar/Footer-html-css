@@ -28,7 +28,7 @@ This project demonstrates a responsive footer design with social media icons and
 
 ### HTML Structure
 
-- **`<footer>`**: The main footer container.
+  - **`<footer>`**: The main footer container.
   - **`.footercontainer`**: Contains social media icons and navigation links.
   - **`.socialicons`**: A flex container for social media icons.
   - **`.footernav`**: A flex container for navigation links.
